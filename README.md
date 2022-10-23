@@ -1,7 +1,7 @@
 ### Hi there, I'm Dhruvin 👋
 ---
 - 🔭 A 4th year computer science student at the University of Toronto.
-- 🏛 Looking for a full-time job opportunities beginning June 2022. 
+- 🏛 Currently, working as SWE at [rbi-labs](https://github.com/rbilabs) 
 - 👨‍💻 Jack of all trades,  Web, Systems, ML etc
 - 🏀 In my free time, I'm either reading, biking or competing in various local sports leagues. 
 - 🌱 I’m currently learning Golang in my free time.
